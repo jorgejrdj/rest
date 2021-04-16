@@ -5,7 +5,7 @@
 
 Neste projeto, desenvolvi uma landing page responsiva com HTML e CSS. O desenvolvimento desse página faz parte do Curso "Tipografia Avançada", realizado pelo professor André Rafael na plataforma ORIGAMID. Para ver o resultado final funcionando, [clique aqui.](https://youtu.be/adNGtGl0C-M)
 
-<a href="https://ibb.co/XXyYq3P"><img src="https://i.ibb.co/31fRnMb/Captura-de-Tela-8.png" alt="Captura-de-Tela-8" border="0"></a>
+<a href="https://ibb.co/tcBZF0m"><img src="https://i.ibb.co/HY7N3cF/Captura-de-Tela-10.png" alt="Captura-de-Tela-10" border="0"></a>
 
 ## :information_source: Como Usar?
 
